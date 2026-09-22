@@ -3,18 +3,15 @@
 <html>
 
 <head>
-<title> wah </title>
+
 </head>
 
-<body bgcolor="0022cc" text="ccaa00">
+
 <br>
 
 <h2> we are here </h2>
 <p> <i>oh hi!</i> </p>
-<style>
-h3 {color:white;}
-p {color:orange;}
-</style>
+
 <p> hoo's this? </p>
 <br>
 <p> mooms </p>
