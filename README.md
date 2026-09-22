@@ -1,5 +1,5 @@
 # delx03.github.io
-<!DOCTYPE html>
+
 <html>
 
 <head>
