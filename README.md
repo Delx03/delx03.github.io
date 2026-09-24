@@ -1,25 +1,25 @@
-# delx03.github.io
-
-<html>
-
-<head>
-
-</head>
 
 
-<br>
+<style>
+    .the-one {
+        background-color:rgb(207, 0, 0);
+        color:white;
+        border: blue;
+        border-style: solid;
+        border-width: 2px;
+        height: 50px;
+        width: 150px;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 20px;
+    }
+</style>
 
-<h2> we are here </h2>
-<p> <i>oh hi!</i> </p>
+<button class="the-one"> WOWZERS </button>
+<button> buttons! </button>
 
-<p> hoo's this? </p>
-<br>
-<p> mooms </p>
-<h3> T~T </h3>
+<p> first paragraph</p>
 
-<br>
-<br>
-<p> <strong>do you remember...</strong> </p>
-</body>
-
-</html>
+<a href="https://youtube.com" target="_blank"> 
+    link to youtube 
+</a>
