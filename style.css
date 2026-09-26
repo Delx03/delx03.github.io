@@ -1,8 +1,8 @@
 body {
-    background-color:#F8CFA1;   
-    }
+    background-color: #F8CFA1;   
+}
 .image-container {
     display: flex;
     align-items: center;
     gap: 20px;
-    }
+}
