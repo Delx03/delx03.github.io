@@ -1,10 +1,8 @@
- body {
-        background-color:#F8CFA1;
-        
+body {
+    background-color:#F8CFA1;   
     }
-
-    .image-container {
-        display: flex;
-        align-items: center;
-        gap: 20px;
+.image-container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
     }
